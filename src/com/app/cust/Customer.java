@@ -7,6 +7,8 @@ public class Customer {
 		System.out.println("Custome Module2");
 		System.out.println("Custome Module3");
 		System.out.println("Custome Module4");
+		System.out.println("Custome Module5");
+		System.out.println("Custome Module6");
 	}
 
 }
